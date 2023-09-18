@@ -1,0 +1,10 @@
+C:\Users\coderpsycho\Desktop\Passwd_Generator\Passwd_Generator\bin\Debug\Passwd_Generator.exe.config
+C:\Users\coderpsycho\Desktop\Passwd_Generator\Passwd_Generator\bin\Debug\Passwd_Generator.exe
+C:\Users\coderpsycho\Desktop\Passwd_Generator\Passwd_Generator\bin\Debug\Passwd_Generator.pdb
+C:\Users\coderpsycho\Desktop\Passwd_Generator\Passwd_Generator\obj\Debug\Passwd_Generator.csproj.AssemblyReference.cache
+C:\Users\coderpsycho\Desktop\Passwd_Generator\Passwd_Generator\obj\Debug\Passwd_Generator.Form1.resources
+C:\Users\coderpsycho\Desktop\Passwd_Generator\Passwd_Generator\obj\Debug\Passwd_Generator.Properties.Resources.resources
+C:\Users\coderpsycho\Desktop\Passwd_Generator\Passwd_Generator\obj\Debug\Passwd_Generator.csproj.GenerateResource.cache
+C:\Users\coderpsycho\Desktop\Passwd_Generator\Passwd_Generator\obj\Debug\Passwd_Generator.csproj.CoreCompileInputs.cache
+C:\Users\coderpsycho\Desktop\Passwd_Generator\Passwd_Generator\obj\Debug\Passwd_Generator.exe
+C:\Users\coderpsycho\Desktop\Passwd_Generator\Passwd_Generator\obj\Debug\Passwd_Generator.pdb
